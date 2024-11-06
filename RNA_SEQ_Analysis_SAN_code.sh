@@ -50,6 +50,15 @@ echo "Building HISAT2 index..."
 conda install -c bioconda hisat2
 hisat2-build GRCm39.primary_assembly.genome.fa genome_index
 
+# Alignment of reads with genome_index
+# Define the input and output directories
+input_dir="/media/san/biostate"
+output_dir="/media/san"  # Update this to your desired output directory
+
+# Create output directory if it doesn't exist
+mkdir -p "$output_dir"
+
+
 # Step 7: Align Reads with HISAT2 and Convert to BAM Format
 echo "Aligning reads with HISAT2 and converting to BAM format..."
 samples=(
