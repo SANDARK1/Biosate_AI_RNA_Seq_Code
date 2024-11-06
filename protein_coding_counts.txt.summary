@@ -1,0 +1,15 @@
+Status	Heart_ZT0_1.bam	Heart_ZT0_2.bam	Heart_ZT12_1.bam	Heart_ZT12_2.bam	Liver_ZT0_1.bam	Liver_ZT0_2.bam	Liver_ZT12_1.bam	Liver_ZT12_2.bam
+Assigned	58577212	48077635	29097937	15254837	38241585	57931837	27309910	20433145
+Unassigned_Unmapped	2635486	1785765	797502	123380	1373886	2779066	886595	434471
+Unassigned_Read_Type	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	28822579	22964726	16172758	8037858	35531600	49723123	27358526	18141837
+Unassigned_Secondary	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	3566235	3138820	1689637	894723	2902885	4064198	1615882	1243026
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	1313206	1039924	554806	350484	787413	1190239	550411	423724
